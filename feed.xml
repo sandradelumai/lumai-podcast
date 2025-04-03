@@ -6,8 +6,8 @@
     <description>Aquí se habla de ideas de negocio rentables. De esas que no necesitan gran inversión para comenzar pero que te pueden cambiar la vida. Y si además están alineadas con tus valores, necesidades y circunstancias pues mejor que mejor.</description>
     <language>es</language>
     <!-- ✅ Portada (debe ser .jpg o .png, mínimo 1400x1400px) -->
-    <itunes:image href="https://www.dropbox.com/scl/fi/z1vcupi2s2ybi1s28kfzo/portada-podcast-lumai.png?rlkey=dxujib1wz9me5f772nja0c4ml&st=3cv3l01p&raw=1"/>
-
+    <itunes:image href="https://sandradelumai.github.io/lumai-podcast/lumai.png"/>
+    
     <!-- ✅ Autor -->
     <itunes:author>Sandra de Lumai</itunes:author>
     <author>Sandra de Lumai</author>
